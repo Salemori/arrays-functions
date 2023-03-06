@@ -1,1 +1,1 @@
-# Arrays & Functions in JS
+## Arrays & Functions in JS
